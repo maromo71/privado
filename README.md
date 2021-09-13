@@ -1,0 +1,2 @@
+# privado
+Diretório Privado
